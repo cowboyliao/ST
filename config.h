@@ -5,12 +5,12 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "FiraCode Nerdfont Mono:pixelsize=20:antialias=true:autohint=true";
+static char *font = "FiraCode Nerdfont Mono:pixelsize=16:antialias=true:autohint=true";
 static int borderpx = 2;
 static char *font2[] = {
-"Inconsolata for Powerline:pixelsize=20:antialias=true:autohint=true", 
-"Hack Nerd Font Mono:pixelsize=20:antialias=true:autohint=true", 
-"Symbola:pixelsize=20:antialias=true:autohint=true", 
+"Inconsolata for Powerline:pixelsize=16:antialias=true:autohint=true", 
+"Hack Nerd Font Mono:pixelsize=16:antialias=true:autohint=true", 
+"Symbola:pixelsize=16:antialias=true:autohint=true", 
 };
 /*
  * What program is execed by st depends of these precedence rules:
